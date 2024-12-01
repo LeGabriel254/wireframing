@@ -78,8 +78,10 @@ Wireframes can be classified into two main types based on their level of detail:
 - **Later Stages of Design**: High-fidelity wireframes are created after the basic layout and functionality have been defined and refined. They are used once the major design decisions have been made.
 - **Stakeholder and User Testing**: These wireframes are useful for gathering feedback from stakeholders and users, as they provide a clearer sense of the final product’s look and feel.
 - **Prototyping and Handoff**: High-fidelity wireframes are often used as the basis for interactive prototypes, which can be tested or handed off to developers for implementation.
+
 #### Example:
 - A detailed wireframe showing a **booking system checkout page** with actual input fields, dropdown menus for payment options, styled buttons, and icons for security features. It might also show a live preview of images or content that would appear in the final product.
+
 ### Key Differences Between Low-fidelity and High-fidelity Wireframes
 | **Aspect**                | **Low-fidelity Wireframes**                 | **High-fidelity Wireframes**                |
 |---------------------------|---------------------------------------------|---------------------------------------------|
@@ -137,9 +139,3 @@ The wireframe was adjusted to:
 - By identifying and fixing the usability issue early, the team prevented potential confusion for users in the final product.
 - The clearer separation between buttons improved the user flow and made it easier for users to understand the booking process.
 - This adjustment was made before any coding began, saving time and avoiding costly revisions.
-0 commit comments
-Comments
-0
- (0)
-Comment
-You're not receiving notifications from this thread.
